@@ -4,7 +4,7 @@
 
 ## Repository Screenshot
 
-![Repository Screenshot](./images/screenshot_filename.png)
+![Repository Screenshot](./images/screenshot1.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
