@@ -3,8 +3,12 @@
 >This repository is a clone of [varadbhogayata's personal website](https://github.com/varadbhogayata/varadbhogayata.github.io).
 
 ## Repository Screenshot
-
-![Repository Screenshot](./images/screenshot1.png)
+<p align="center"> 
+  <kbd>
+    <a href="https://mehdiess8.github.io" target="_blank"><img src="images/screenshot1.png">
+  </a>
+  </kbd>
+</p>
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
