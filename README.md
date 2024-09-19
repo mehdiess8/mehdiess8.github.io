@@ -5,7 +5,7 @@
 ## Repository Screenshot
 <p align="center"> 
   <kbd>
-    <a href="https://mehdiess8.github.io" target="_blank"><img src="images/screenshot1.png">
+    <img src="./images/screenshot1.png.png">
   </a>
   </kbd>
 </p>
