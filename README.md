@@ -24,6 +24,14 @@
   </kbd>
 </p>
 
+## Deployed Google Maps
+<p align="center"> 
+  <kbd>
+    <img src="./images/Screenshot 2024-09-20 002347.png">
+  </a>
+  </kbd>
+</p>
+
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
