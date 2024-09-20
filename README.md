@@ -32,6 +32,22 @@
   </kbd>
 </p>
 
+## Added dynamic projects
+<p align="center"> 
+  <kbd>
+    <img src="./images/Screenshot 2024-09-20 122007.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <img src="./images/Screenshot 2024-09-20 122020.png">
+  </a>
+  </kbd>
+</p>
+
+
+
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
