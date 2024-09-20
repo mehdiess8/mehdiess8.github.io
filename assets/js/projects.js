@@ -4,7 +4,7 @@ const projects = [
       title: "AI Powered Report Writing Tool",
       description: "A chatbot that helps forensic engineering experts write reports more efficiently.",
       image: "/assets/img/project-music-player.png",
-      date: "2024-06-01",
+      date: "2019-06-01",
       accomplishments: [
         "Tools: React, Node.js, Azure OpenAI API, Azure Cognitive Search, Azure SQL Database, Azure App Service, ",
         "Register/login to the web app.",
@@ -16,7 +16,7 @@ const projects = [
       title: "Google Maps Clone",
       description: "An app that allows users to search for places and get directions to them using an API. Cities available are Toronto, Tokyo, New York, London, Paris, and Rome.",
       image: "/assets/img/project-quizup-logo-1.png",
-      date: "2019-02-01",
+      date: "2024-02-01",
       accomplishments: [
         "Tools: Django, HTML, CSS, Bootstrap, SQLite, Heroku",
         "Choose city from dropdown menu. Choose a spot on the map to get directions to that spot from the selected city. Find food places within a certain distance from the selected spot.",
