@@ -10,6 +10,26 @@
   </kbd>
 </p>
 
+## Updated Repository and Deployed Website Screenshots
+<p align="center"> 
+  <kbd>
+    <img src="./images/Screenshot 2024-09-19 224804.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <img src="./images/Screenshot 2024-09-19 224918.png">
+  </a>
+  </kbd>
+</p>
+
+
+
+![Repo Screenshot](./images/repo_screenshot.png)
+![Website Screenshot](./images/website_screenshot.png)
+
+
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
